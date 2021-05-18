@@ -1,0 +1,23 @@
+* {
+    // border-style: dashed;
+    // border-color: gray;
+    // border-width: thin;
+    // outline-style: dashed;
+    // outline-color: gray;
+    // outline-width:thin;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background-image: url('../img/bg-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+}
+
+.outlines-dev {
+    // position:sticky;
+}
